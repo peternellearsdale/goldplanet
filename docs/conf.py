@@ -4,7 +4,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Gold Planet Roxy'
+project = 'My Project'
 copyright = '2025 Copyright'
 author = 'Simpson Arnow mov'
 
