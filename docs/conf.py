@@ -6,7 +6,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 project = 'First Project'
 copyright = '2025 Copyright'
-author = 'Simpson Arnow mov'
+author = 'Berlandina'
 
 release = '1.0'
 
